@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://mobile.hbtobacco.cn:8088/upload/softwarere/MobilePlat.ipa</string>
+					<string>https://mobile.hbtobacco.cn/upload/softwarere/MobilePlat.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://mobile.hbtobacco.cn:8088/upload/softwarere/ico.png</string>
+					<string>https://mobile.hbtobacco.cn/upload/softwarere/ico.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -31,7 +31,7 @@
 				<key>subtitle</key>
 				<string>湖北中烟移动门户1</string>
 				<key>title</key>
-				<string>湖北中烟移动门户Iphone版</string>
+				<string>湖北中烟移动门户Iphone�?/string>
 			</dict>
 		</dict>
 	</array>
