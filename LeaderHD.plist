@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://mobile.hbtobacco.cn:8088/upload/softwarere/LeaderHD.ipa</string>
+					<string>https://mobile.hbtobacco.cn/upload/softwarere/LeaderHD.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://mobile.hbtobacco.cn:8088/upload/softwarere/leaderHD.png</string>
+					<string>https://mobile.hbtobacco.cn/upload/softwarere/leaderHD.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
